@@ -1,0 +1,8 @@
+{
+  "name": "Pixel Nest Studio",
+  "description": "Creative digital design and media production studio specializing in graphic design, UI/UX, video editing, photography, and digital advertising.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
